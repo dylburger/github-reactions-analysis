@@ -1,0 +1,110 @@
+Repo Owner,Repo,Issue Title,URL,Opened By,Issue Created At,Reaction At,Reaction Type,Reaction By
+PipedreamHQ,roadmap,"Improved debugging experience, like I can get in a local debugger",https://api.github.com/repos/PipedreamHQ/roadmap/issues/135,dylburger,11/25/2019,11/25/2019,1,antoinereyt
+PipedreamHQ,roadmap,"I want to create my own OAuth app, while still have Pipedream manage the authorization / token refresh process",https://api.github.com/repos/PipedreamHQ/roadmap/issues/133,dylburger,11/22/2019,11/22/2019,hooray,knrz
+PipedreamHQ,roadmap,Upgrade to Node v12,https://api.github.com/repos/PipedreamHQ/roadmap/issues/131,dylburger,11/21/2019,11/21/2019,1,dylburger
+PipedreamHQ,roadmap,Upgrade to Node v12,https://api.github.com/repos/PipedreamHQ/roadmap/issues/131,dylburger,11/21/2019,11/21/2019,1,knrz
+PipedreamHQ,roadmap,Improve the interface for sharing complex data between steps / setting workflow-scoped variables,https://api.github.com/repos/PipedreamHQ/roadmap/issues/118,dylburger,11/19/2019,11/19/2019,1,knrz
+PipedreamHQ,roadmap,Improve the interface for sharing complex data between steps / setting workflow-scoped variables,https://api.github.com/repos/PipedreamHQ/roadmap/issues/118,dylburger,11/19/2019,11/21/2019,1,jonlutz79
+PipedreamHQ,roadmap,[APP] android,https://api.github.com/repos/PipedreamHQ/roadmap/issues/116,casret,11/19/2019,11/19/2019,1,ahilles107
+PipedreamHQ,roadmap,[APP] Sentry: add the option for a custom Sentry host (for on-prem users),https://api.github.com/repos/PipedreamHQ/roadmap/issues/103,dylburger,11/15/2019,11/19/2019,1,ahilles107
+PipedreamHQ,roadmap,Sorting of env variables,https://api.github.com/repos/PipedreamHQ/roadmap/issues/100,muratmat,11/15/2019,11/17/2019,1,samwoolertonLW
+PipedreamHQ,roadmap,"If I change the name of a step, I don't want to have to manually change it if I used it in other steps",https://api.github.com/repos/PipedreamHQ/roadmap/issues/94,psavkar,11/13/2019,11/14/2019,1,sauvegardezvous
+PipedreamHQ,roadmap,"If I change the name of a step, I don't want to have to manually change it if I used it in other steps",https://api.github.com/repos/PipedreamHQ/roadmap/issues/94,psavkar,11/13/2019,11/17/2019,1,samwoolertonLW
+PipedreamHQ,roadmap,I want to filter events in my inspector for a workflow so I can view all events that yielded an error,https://api.github.com/repos/PipedreamHQ/roadmap/issues/90,dylburger,11/09/2019,11/17/2019,1,samwoolertonLW
+PipedreamHQ,roadmap,Rename a workflow while forking,https://api.github.com/repos/PipedreamHQ/roadmap/issues/89,dannyroosevelt,11/08/2019,11/08/2019,1,dylburger
+PipedreamHQ,roadmap,I'd like a list of public IP addresses tied to traffic sent from my workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/88,dylburger,11/05/2019,11/05/2019,1,dylburger
+PipedreamHQ,roadmap,[APP] Amplitude,https://api.github.com/repos/PipedreamHQ/roadmap/issues/85,dylburger,11/01/2019,11/01/2019,1,yalelikeyale
+PipedreamHQ,roadmap,[APP] Heap,https://api.github.com/repos/PipedreamHQ/roadmap/issues/84,dylburger,11/01/2019,11/01/2019,1,yalelikeyale
+PipedreamHQ,roadmap,Autocomplete in action forms should work like it does in code steps,https://api.github.com/repos/PipedreamHQ/roadmap/issues/81,dylburger,10/30/2019,11/01/2019,1,jsendo
+PipedreamHQ,roadmap,[ACTION] Cloudflare: update DNS record,https://api.github.com/repos/PipedreamHQ/roadmap/issues/77,dylburger,10/28/2019,10/28/2019,1,jswright61
+PipedreamHQ,roadmap,[ACTION] Linode: update DNS record,https://api.github.com/repos/PipedreamHQ/roadmap/issues/76,dylburger,10/28/2019,10/28/2019,1,jswright61
+PipedreamHQ,roadmap,[TRIGGER] Github,https://api.github.com/repos/PipedreamHQ/roadmap/issues/70,dylburger,10/26/2019,10/26/2019,1,dylburger
+PipedreamHQ,roadmap,Allow me to select the OAuth scopes I'd like to allow for a specific connected account,https://api.github.com/repos/PipedreamHQ/roadmap/issues/69,dylburger,10/26/2019,10/26/2019,1,dylburger
+PipedreamHQ,roadmap,"Delay Action: wait N { seconds, minutes, etc. } before running the next step",https://api.github.com/repos/PipedreamHQ/roadmap/issues/64,dylburger,10/25/2019,10/25/2019,1,dylburger
+PipedreamHQ,roadmap,"Delay Action: wait N { seconds, minutes, etc. } before running the next step",https://api.github.com/repos/PipedreamHQ/roadmap/issues/64,dylburger,10/25/2019,11/14/2019,1,sauvegardezvous
+PipedreamHQ,roadmap,"Delay Action: wait N { seconds, minutes, etc. } before running the next step",https://api.github.com/repos/PipedreamHQ/roadmap/issues/64,dylburger,10/25/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,Unified log / API to retrieve all workflow executions + errors,https://api.github.com/repos/PipedreamHQ/roadmap/issues/63,dylburger,10/25/2019,10/25/2019,1,chrisborbidge
+PipedreamHQ,roadmap,Unified log / API to retrieve all workflow executions + errors,https://api.github.com/repos/PipedreamHQ/roadmap/issues/63,dylburger,10/25/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,Action: trigger another workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/62,dylburger,10/25/2019,10/25/2019,1,chrisborbidge
+PipedreamHQ,roadmap,Action: trigger another workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/62,dylburger,10/25/2019,10/25/2019,1,rapPayne
+PipedreamHQ,roadmap,Workflow creation API,https://api.github.com/repos/PipedreamHQ/roadmap/issues/61,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Read / write to shared state across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/57,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Read / write to shared state across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/57,dylburger,10/24/2019,10/24/2019,1,ricaud
+PipedreamHQ,roadmap,Read / write to shared state across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/57,dylburger,10/24/2019,10/25/2019,1,rapPayne
+PipedreamHQ,roadmap,Read / write to shared state across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/57,dylburger,10/24/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,Loop action,https://api.github.com/repos/PipedreamHQ/roadmap/issues/56,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Loop action,https://api.github.com/repos/PipedreamHQ/roadmap/issues/56,dylburger,10/24/2019,10/25/2019,1,chrisborbidge
+PipedreamHQ,roadmap,Loop action,https://api.github.com/repos/PipedreamHQ/roadmap/issues/56,dylburger,10/24/2019,10/25/2019,1,rapPayne
+PipedreamHQ,roadmap,Loop action,https://api.github.com/repos/PipedreamHQ/roadmap/issues/56,dylburger,10/24/2019,11/22/2019,1,leonwnf
+PipedreamHQ,roadmap,Set rules for what events trigger a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/55,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,"Enable ""HTTP response mode"" for workflows",https://api.github.com/repos/PipedreamHQ/roadmap/issues/54,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,"Enable ""HTTP response mode"" for workflows",https://api.github.com/repos/PipedreamHQ/roadmap/issues/54,dylburger,10/24/2019,10/25/2019,1,rapPayne
+PipedreamHQ,roadmap,Support arbitrary file upload that my workflow can reference at runtime,https://api.github.com/repos/PipedreamHQ/roadmap/issues/53,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Regular email summary of workflow executions,https://api.github.com/repos/PipedreamHQ/roadmap/issues/51,dylburger,10/24/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Support for re-ordering steps of a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/48,dylburger,10/24/2019,10/25/2019,1,dylburger
+PipedreamHQ,roadmap,Support for re-ordering steps of a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/48,dylburger,10/24/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,"Discord action: if we exceed the API rate limit, action should return messages we failed to send",https://api.github.com/repos/PipedreamHQ/roadmap/issues/45,dylburger,10/24/2019,10/25/2019,1,rapPayne
+PipedreamHQ,roadmap,Configure automatic retries for workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/43,dylburger,10/23/2019,10/24/2019,1,lardissone
+PipedreamHQ,roadmap,Configure automatic retries for workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/43,dylburger,10/23/2019,10/25/2019,1,chrisborbidge
+PipedreamHQ,roadmap,Configure automatic retries for workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/43,dylburger,10/23/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,Logically group workflows in the UI,https://api.github.com/repos/PipedreamHQ/roadmap/issues/42,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Logically group workflows in the UI,https://api.github.com/repos/PipedreamHQ/roadmap/issues/42,dylburger,10/23/2019,11/15/2019,1,Juslesiasru
+PipedreamHQ,roadmap,Restrict workflow execution via API key,https://api.github.com/repos/PipedreamHQ/roadmap/issues/41,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,[APP] Pipedrive,https://api.github.com/repos/PipedreamHQ/roadmap/issues/37,dylburger,10/23/2019,10/25/2019,1,adamd
+PipedreamHQ,roadmap,[TRIGGER] Discord,https://api.github.com/repos/PipedreamHQ/roadmap/issues/33,dylburger,10/23/2019,10/24/2019,1,Seklfreak
+PipedreamHQ,roadmap,[TRIGGER] Slack,https://api.github.com/repos/PipedreamHQ/roadmap/issues/32,dylburger,10/23/2019,10/24/2019,1,Seklfreak
+PipedreamHQ,roadmap,[TRIGGER] Slack,https://api.github.com/repos/PipedreamHQ/roadmap/issues/32,dylburger,10/23/2019,11/05/2019,1,dylburger
+PipedreamHQ,roadmap,[TRIGGER] New row added in Google Sheets,https://api.github.com/repos/PipedreamHQ/roadmap/issues/31,dylburger,10/23/2019,10/25/2019,1,adamd
+PipedreamHQ,roadmap,[APP] Google Docs,https://api.github.com/repos/PipedreamHQ/roadmap/issues/27,dylburger,10/23/2019,10/25/2019,1,adamd
+PipedreamHQ,roadmap,[APP] Google Docs,https://api.github.com/repos/PipedreamHQ/roadmap/issues/27,dylburger,10/23/2019,10/25/2019,1,rapPayne
+PipedreamHQ,roadmap,[APP] Google Docs,https://api.github.com/repos/PipedreamHQ/roadmap/issues/27,dylburger,10/23/2019,10/31/2019,1,99hats
+PipedreamHQ,roadmap,[TRIGGER] Dropbox,https://api.github.com/repos/PipedreamHQ/roadmap/issues/25,dylburger,10/23/2019,10/25/2019,1,adamd
+PipedreamHQ,roadmap,Status page for pipedream.com services,https://api.github.com/repos/PipedreamHQ/roadmap/issues/24,dylburger,10/23/2019,10/24/2019,1,Seklfreak
+PipedreamHQ,roadmap,Puppeteer support,https://api.github.com/repos/PipedreamHQ/roadmap/issues/22,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Puppeteer support,https://api.github.com/repos/PipedreamHQ/roadmap/issues/22,dylburger,10/23/2019,10/25/2019,1,TheNoim
+PipedreamHQ,roadmap,Puppeteer support,https://api.github.com/repos/PipedreamHQ/roadmap/issues/22,dylburger,10/23/2019,10/27/2019,1,adammoisa
+PipedreamHQ,roadmap,Puppeteer support,https://api.github.com/repos/PipedreamHQ/roadmap/issues/22,dylburger,10/23/2019,10/30/2019,1,sauvegardezvous
+PipedreamHQ,roadmap,Visibly clarify what's public and what's private in a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/21,dylburger,10/23/2019,11/17/2019,1,samwoolertonLW
+PipedreamHQ,roadmap,Searchable list of public workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/20,dylburger,10/23/2019,10/23/2019,1,dylburger
+PipedreamHQ,roadmap,Searchable list of public workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/20,dylburger,10/23/2019,10/25/2019,1,Gingernaut
+PipedreamHQ,roadmap,Support requiring specific versions of an npm package,https://api.github.com/repos/PipedreamHQ/roadmap/issues/19,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,JDBC Interface for the SQL service,https://api.github.com/repos/PipedreamHQ/roadmap/issues/18,dylburger,10/23/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,Descriptions for code steps,https://api.github.com/repos/PipedreamHQ/roadmap/issues/17,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Language Support: Golang,https://api.github.com/repos/PipedreamHQ/roadmap/issues/11,dylburger,10/23/2019,10/24/2019,1,Seklfreak
+PipedreamHQ,roadmap,Language Support: Golang,https://api.github.com/repos/PipedreamHQ/roadmap/issues/11,dylburger,10/23/2019,11/11/2019,1,greg2020
+PipedreamHQ,roadmap,"I want to star a workflow, like on Github",https://api.github.com/repos/PipedreamHQ/roadmap/issues/10,dylburger,10/23/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,I'd like to publish code steps / actions to the Pipedream community for others to use,https://api.github.com/repos/PipedreamHQ/roadmap/issues/9,dylburger,10/23/2019,10/24/2019,1,casret
+PipedreamHQ,roadmap,I'd like to publish code steps / actions to the Pipedream community for others to use,https://api.github.com/repos/PipedreamHQ/roadmap/issues/9,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,I'd like to publish code steps / actions to the Pipedream community for others to use,https://api.github.com/repos/PipedreamHQ/roadmap/issues/9,dylburger,10/23/2019,10/28/2019,1,antoinereyt
+PipedreamHQ,roadmap,I'd like to write a code step that I can re-use across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/8,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,I'd like to write a code step that I can re-use across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/8,dylburger,10/23/2019,10/25/2019,1,joshstrange
+PipedreamHQ,roadmap,I'd like to write a code step that I can re-use across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/8,dylburger,10/23/2019,10/27/2019,1,adammoisa
+PipedreamHQ,roadmap,I'd like to write a code step that I can re-use across workflows,https://api.github.com/repos/PipedreamHQ/roadmap/issues/8,dylburger,10/23/2019,11/17/2019,1,samwoolertonLW
+PipedreamHQ,roadmap,Support HTTP payloads larger than 100KB,https://api.github.com/repos/PipedreamHQ/roadmap/issues/7,dylburger,10/23/2019,10/24/2019,1,dylburger
+PipedreamHQ,roadmap,Support HTTP payloads larger than 100KB,https://api.github.com/repos/PipedreamHQ/roadmap/issues/7,dylburger,10/23/2019,10/25/2019,1,dturton
+PipedreamHQ,roadmap,[TRIGGER] RSS / Atom,https://api.github.com/repos/PipedreamHQ/roadmap/issues/6,dylburger,10/23/2019,10/24/2019,1,lardissone
+PipedreamHQ,roadmap,[TRIGGER] RSS / Atom,https://api.github.com/repos/PipedreamHQ/roadmap/issues/6,dylburger,10/23/2019,10/24/2019,1,casret
+PipedreamHQ,roadmap,[TRIGGER] RSS / Atom,https://api.github.com/repos/PipedreamHQ/roadmap/issues/6,dylburger,10/23/2019,10/24/2019,1,Seklfreak
+PipedreamHQ,roadmap,[TRIGGER] RSS / Atom,https://api.github.com/repos/PipedreamHQ/roadmap/issues/6,dylburger,10/23/2019,10/24/2019,1,n8felton
+PipedreamHQ,roadmap,[TRIGGER] RSS / Atom,https://api.github.com/repos/PipedreamHQ/roadmap/issues/6,dylburger,10/23/2019,10/25/2019,1,adamd
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,10/23/2019,1,dylburger
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,10/24/2019,1,HarryGogonis
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,10/24/2019,1,casret
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,10/27/2019,1,adammoisa
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,11/11/2019,1,greg2020
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,11/17/2019,1,samwoolertonLW
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,11/17/2019,heart,samwoolertonLW
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,11/22/2019,heart,antoinereyt
+PipedreamHQ,roadmap,Pipedream CLI / Writing Workflows Locally,https://api.github.com/repos/PipedreamHQ/roadmap/issues/4,dylburger,10/23/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,I want to query the SQL service from a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/3,dylburger,10/23/2019,10/23/2019,1,dylburger
+PipedreamHQ,roadmap,I want to query the SQL service from a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/3,dylburger,10/23/2019,10/24/2019,1,ricaud
+PipedreamHQ,roadmap,I want to query the SQL service from a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/3,dylburger,10/23/2019,10/28/2019,1,Atinux
+PipedreamHQ,roadmap,I want to query the SQL service from a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/3,dylburger,10/23/2019,11/01/2019,1,yalelikeyale
+PipedreamHQ,roadmap,I want to query the SQL service from a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/3,dylburger,10/23/2019,11/20/2019,1,knrz
+PipedreamHQ,roadmap,I want to query the SQL service from a workflow,https://api.github.com/repos/PipedreamHQ/roadmap/issues/3,dylburger,10/23/2019,11/22/2019,1,antoinereyt
+PipedreamHQ,roadmap,Language Support: Python 3,https://api.github.com/repos/PipedreamHQ/roadmap/issues/1,dylburger,10/22/2019,10/23/2019,1,dylburger
+PipedreamHQ,roadmap,Language Support: Python 3,https://api.github.com/repos/PipedreamHQ/roadmap/issues/1,dylburger,10/22/2019,10/24/2019,1,lardissone
+PipedreamHQ,roadmap,Language Support: Python 3,https://api.github.com/repos/PipedreamHQ/roadmap/issues/1,dylburger,10/22/2019,11/02/2019,1,kwikiel
+PipedreamHQ,roadmap,Language Support: Python 3,https://api.github.com/repos/PipedreamHQ/roadmap/issues/1,dylburger,10/22/2019,11/11/2019,1,greg2020
+PipedreamHQ,roadmap,Language Support: Python 3,https://api.github.com/repos/PipedreamHQ/roadmap/issues/1,dylburger,10/22/2019,11/16/2019,1,knrz
+PipedreamHQ,roadmap,Language Support: Python 3,https://api.github.com/repos/PipedreamHQ/roadmap/issues/1,dylburger,10/22/2019,11/17/2019,1,samwoolertonLW
