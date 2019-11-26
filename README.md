@@ -1,6 +1,6 @@
 ## About
 
-This Jupyter notebook shows some example analyses of Github reactions data. You can read more about how to generate the source CSV from this Medium post, and in this [Pipedream workflow](https://pipedream.com/@dylburger/send-issue-reactions-for-a-repo-to-a-google-sheet-p_NMCar1/readme).
+This Jupyter notebook provides a couple of example analyses of Github issue reactions data. You can read more about how to generate the source CSV from this Medium post, and in this [Pipedream workflow](https://pipedream.com/@dylburger/send-issue-reactions-for-a-repo-to-a-google-sheet-p_NMCar1/readme).
 
 ## Quickstart
 
